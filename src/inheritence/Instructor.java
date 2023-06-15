@@ -1,2 +1,5 @@
-package inheritence;public class Instructor {
+package inheritence;
+
+public class Instructor extends User{
+    double avgRating;
 }

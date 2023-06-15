@@ -1,2 +1,6 @@
-package inheritence;public class User {
+package inheritence;
+
+public class User {
+    String username;
+    String password;
 }
