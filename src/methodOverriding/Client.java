@@ -11,7 +11,7 @@ public class Client {
         B b = new B();
         b.doSomething("Anshu");
 
-        b = new A();
-        b.doSomething("Anshu");
+//        b = new A();
+//        b.doSomething("Anshu");
     }
 }
